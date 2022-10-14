@@ -157,17 +157,17 @@ Each section should be contained in its own `<section>` tag. Do not use any CSS 
 
 You should be able to create sections that demonstrate...
 
-- [ ] The following block-level text containers:
-  - [ ] ✏️ The paragraph `<p>` tag
-  - [ ] ✏️ The blockquote `<blockquote>` tag
-  - [ ] ✏️ The pre-formatted text `<pre>` tag
-- [ ] Inline text styling using the following tags:
-  - [ ] ✏️ `<em>` and `<i>`
-  - [ ] ✏️ `<strong>` and `<b>`
-  - [ ] ✏️ `<code>`
-- [ ] ✏️ The `<a>` tag
-- [ ] ✏️ The `<img>` tag
-- [ ] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
+- [x] The following block-level text containers:
+  - [x] ✏️ The paragraph `<p>` tag
+  - [x] ✏️ The blockquote `<blockquote>` tag
+  - [x] ✏️ The pre-formatted text `<pre>` tag
+- [x] Inline text styling using the following tags:
+  - [x] ✏️ `<em>` and `<i>`
+  - [x] ✏️ `<strong>` and `<b>`
+  - [x] ✏️ `<code>`
+- [x] ✏️ The `<a>` tag
+- [x] ✏️ The `<img>` tag
+- [x] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
 
 ### Lists
 
