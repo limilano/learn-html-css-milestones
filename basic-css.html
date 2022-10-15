@@ -6,7 +6,6 @@
 
   <style>
     h1 {
-      color: red;
       text-align: center;
       text-transform: lowercase;
       line-height: 100px;
@@ -34,7 +33,7 @@
     body {
       background-color: pink;
       background-image: url("assets/img/funny_seal_spinning.gif");
-      background-repeat: no-repeat;
+      <!-- background-repeat: no-repeat; -->
     }
 
     ul {
@@ -45,11 +44,23 @@
     * {
       border: 2px solid red;
     }
+
+    #redColor {
+      color: red;
+    }
+
+    div p {
+      color: yellow;
+    }
+
+    ul > li >  p {
+      color:green;
+    }
   </style>
 </head>
 
 <body>
-  <h1>H1</h1>
+  <h1 id="redColor">H1</h1>
   <p class = "red">paragraph</p>
   <div>
     <p>paragraph in a div</p>
@@ -58,7 +69,7 @@
 
   <ul>
     <li>1</li>
-    <li>2</li>
+    <li><p>2</p></li>
     <li>3</li>
   </ul>
 

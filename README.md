@@ -226,12 +226,12 @@ Building on `basic-tags.html`, you should be able to create tables of varying si
 In `basic-css.html`, you should be able to demonstrate the following html inside the body to use the above CSS:
 
 - [ ] Selectors...
-  - [ ] ✏️ Type / tag selectors
-  - [ ] ✏️ Class selectors
-  - [ ] ✏️ ID selectors
-- [ ] Combinators...
-  - [ ] ✏️ Descendant combinator
-  - [ ] ✏️ Child combinator
+  - [x] ✏️ Type / tag selectors
+  - [x] ✏️ Class selectors
+  - [x] ✏️ ID selectors
+- [x] Combinators...
+  - [x] ✏️ Descendant combinator
+  - [x] ✏️ Child combinator
 
 ### Styling A Page
 
